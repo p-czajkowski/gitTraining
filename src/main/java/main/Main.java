@@ -7,8 +7,6 @@ public class Main {
         System.out.println("hello task2");
 
 
-        System.out.println("New bleble");
 
-        System.out.println("Hello from task2");
     }
 }
